@@ -21,6 +21,7 @@
   "homepage": "https://github.com/atam91/basic-js-code-quality-tools#readme",
   "devDependencies": {
     "eslint": "^8.37.0",
+    "eslint-config-airbnb-base": "^15.0.0",
     "jest": "^29.5.0",
     "prettier": "2.8.7"
   }

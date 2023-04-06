@@ -26,5 +26,8 @@ see [ESLint documentation](https://eslint.org/docs/latest/use/getting-started)
 
 check [rules](https://eslint.org/docs/latest/use/configure/rules)
 
+You can use `eslint:recommended` rules preset or can try [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+To get it `npm install --save-dev eslint-config-airbnb-base` and put it in your `.eslintrc` file `extends` section.
+
 Use commands `npm run lint` or `npm run lint:fix`.
 
